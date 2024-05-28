@@ -3,13 +3,13 @@ body {
     font-size: 1em;
     font-weight: normal;
     font-family: Arial, sans-serif;
-    color: black;
+    color: rgb(173, 24, 24);
     text-align: left;
 }
 h1 {
     font-size: 1.8em;
     font-weight: bold;
-    color: #0000ff;
+    color: #001aff;
     text-align: center;
 }
 h2 {font-size: 1.5em;
