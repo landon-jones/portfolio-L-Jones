@@ -44,3 +44,16 @@ main{
     background-color: azure;
     color: black;
 }
+
+a{color: black;
+background-color: azure;}
+
+a:hover,a:focus{
+    color: azure;
+    background-color: black;
+}
+
+p#overview::first-letter{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
